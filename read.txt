@@ -1,0 +1,6 @@
+This aims to check password strenth checker using the string validation. Simple console app:
+
+The input is :  a password string!
+output : weak
+        medium
+        strong
